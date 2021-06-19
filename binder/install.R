@@ -1,5 +1,5 @@
 install.packages("dplyr")
 install.packages("tidyr")
 install.packages("ggplot2")
-install.packages("pathwork")
+install.packages("patchwork")
 install.packages("countrycode")
