@@ -8,7 +8,12 @@
 [![GitHub-Forks](https://img.shields.io/github/forks/strikersps/Cholera-Disease-Analysis?style=flat-square)](https://github.com/strikersps/Cholera-Disease-Analysis/network/members)  
 
 ## 1. Objective  
-* The objective of this project is to create awareness and to understand the spread of Cholera disease globally using R progarmming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.
+* The objective of this project is to create awareness and to understand the spread of Cholera disease globally using R progarmming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.  
+* **Please watch the following video to understand more about Cholera.**  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hj95IZMlZWw
+" target="_blank"><img src="http://img.youtube.com/vi/hj95IZMlZWw/0.jpg" 
+alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="10" /></a>
 
 ## 2. Introduction  
 * The repository shows the data analysis of Cholera disease which is killing people for last two centuries and shows the evidence that if the countries doesn't have access to clean drinking water or sanitation or doesn't have basic healthcare infrastructure then Cholera can kill thousands of people if not millions.  
