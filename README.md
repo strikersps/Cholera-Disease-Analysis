@@ -8,7 +8,7 @@
 [![GitHub-Forks](https://img.shields.io/github/forks/strikersps/Cholera-Disease-Analysis?style=flat-square)](https://github.com/strikersps/Cholera-Disease-Analysis/network/members)  
 
 ## 1. Objective  
-* The objective of this project is to create awareness and to understand the spread of Cholera disease globally using R progarmming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.  
+* The objective of this project is to create awareness and to understand the spread of Cholera disease globally using R programming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.  
 * **Please watch the following video's to understand more about Cholera and also the story of John Snow who used data analysis in order to find out the source of disease in the Cholera outbreak of 1854 which killed 600 people in just a few weeks in London.**  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lNjrAXGRda4
