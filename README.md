@@ -1,6 +1,6 @@
 # Cholera-Disease-Analysis  
 [![R-Programming-Shield](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r)
-[![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/strikersps/Cholera-Disease-Analysis/blob/HEAD/Cholera-Disease-Analysis.ipynb#)
+[![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb)
 [![Binder-Shield](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/Cholera-Disease-Analysis/HEAD)  
 
 [![GitHub-Issues](https://img.shields.io/github/issues/strikersps/Cholera-Disease-Analysis?style=flat-square)](https://github.com/strikersps/Cholera-Disease-Analysis/issues)
@@ -36,7 +36,7 @@ The following short documentary explains, **How Cholera Outbreak Happened In Hai
 alt="Investigating a Mysterious Cholera Outbreak in Haiti: Correspondent Confidential" width="1024" height="720" border="5" /></a>
 
 ## 3. How To Execute  
-* To view the jupyter notebook click on the badge [![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/strikersps/Cholera-Disease-Analysis/blob/HEAD/Cholera-Disease-Analysis.ipynb#) but if you want to execute the jupyter notebook or R-code in the R-IDE then follow the steps given below.
+* To view the jupyter notebook click on the badge [![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb) but if you want to execute the jupyter notebook or R-code in the R-IDE then follow the steps given below.
 
   **3.1 Using Binder**
   * Click on the badge [![Binder-Shield](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/Cholera-Disease-Analysis/HEAD) in order to execute the jupyter notebook in binder which will allow you to have an interactve experience.  
