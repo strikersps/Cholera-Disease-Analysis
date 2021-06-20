@@ -29,7 +29,7 @@ alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="5" 
 
 ![WHO-Subregion With Most Number of Cholera Cases Reported (2007-2016)](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Cases-and-Deaths-Last-10-Years.png)  
 
-The following short documentary explains about how Cholera outbreak happened in Haiti in 2010 after a devastating earthquake which destroyed most of the infrastructure of Haiti and made people to live in tents just like in a refugee camp.  
+The following short documentary explains, **How Cholera Outbreak Happened In Haiti In 2010** after a [devastating earthquake](https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti) which destroyed most of the infrastructure of Haiti and made millions of people to live in tents like a refugee camp.  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xx4sQ0oeU9Q
 " target="_blank"><img src="http://img.youtube.com/vi/Xx4sQ0oeU9Q/0.jpg" 
