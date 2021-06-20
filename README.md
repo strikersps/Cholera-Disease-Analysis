@@ -18,14 +18,15 @@
 * The goal of this project is to create awareness and to understand the spread of Cholera disease globally using R progarmming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.
 
 ## 2. How To Execute  
+* To view the jupyter notebook click on the badge [![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/strikersps/Cholera-Disease-Analysis/blob/HEAD/Cholera-Disease-Analysis.ipynb#) but if you want to execute the jupyter notebook or R-code in the R-IDE then follow the steps given below.
+
   **2.1 Using Binder**
   * Click on the badge [![Binder-Shield](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/Cholera-Disease-Analysis/HEAD) in order to execute the jupyter notebook in binder which will allow you to have an interactve experience.  
       **NOTE:** The binder will take atleast 10-15 minutes to create an executable environment by installing all the dependencies for R and this project.  
       
   **2.2 Local System**  
   * You can also execute the R-code in your local system in the R-IDE by cloning this repository onto your local system and then open the R-IDE, set the working directory to the clone repository and execute the [`Cholera-Disease-Analysis.r`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r) file.  
-      **NOTE:** Do maximise all the plots which are created through execution of the R-code in R-IDE.
-
+      **NOTE:** Do maximise all the plots which are created through execution of the R-code in R-IDE.  
 
 ## 3. About Dataset  
 * The dataset consists of information about the total number of cases, deaths and fatality rate (CFR) for the cholera disease from 1949-2016.  
