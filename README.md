@@ -8,7 +8,9 @@
 [![GitHub-Forks](https://img.shields.io/github/forks/strikersps/Cholera-Disease-Analysis?style=flat-square)](https://github.com/strikersps/Cholera-Disease-Analysis/network/members)  
 
 ## 1. Introduction  
-The repository shows the data analysis of Cholera disease which is killing people for last two centuries and shows the evidence that if the countries doesn't have access to clean drinking water or sanitation or doesn't have basic healthcare infra-structure then Cholera can kill thousands of people if not millions.  
+The repository shows the data analysis of Cholera disease which is killing people for last two centuries and shows the evidence that if the countries doesn't have access to clean drinking water or sanitation or doesn't have basic healthcare infrastructure then Cholera can kill thousands of people if not millions.  
+
+![Top-12 Countries With Most Cholera Cases Reported]()
 
 ## 2. About Dataset  
 * The dataset consists of information about the total number of cases, deaths and fatality rate (CFR) for the cholera disease from 1949-2016.  
