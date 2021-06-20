@@ -13,12 +13,12 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lNjrAXGRda4
 " target="_blank"><img src="http://img.youtube.com/vi/lNjrAXGRda4/0.jpg" 
-alt="John Snow and the 1854 Broad Street cholera outbreak" width="1024" height="720" border="10" /></a>
+alt="John Snow and the 1854 Broad Street cholera outbreak" width="1024" height="720" border="5" /></a>
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hj95IZMlZWw
 " target="_blank"><img src="http://img.youtube.com/vi/hj95IZMlZWw/0.jpg" 
-alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="10" /></a>
+alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="5" /></a>
 
 
 ## 2. Introduction  
@@ -28,6 +28,12 @@ alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="10"
 * The above graphs shows the Top-12 Countries with the most reported Cholera Cases (1949-2016) and it is evident that India and Bangladesh which had half a million cases reported in the late 1940s have now relatively very less number of cases/deaths reported due to the vaccination and sanitation availability but still in Sub-Saharan Africa, Latin America and Caribbean countries Cholera is a major threat to the people due to very weak and fragile healthcare infrastructure present in these countries (Refer the below figure).  
 
 ![WHO-Subregion With Most Number of Cholera Cases Reported (2007-2016)](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Cases-and-Deaths-Last-10-Years.png)  
+
+The following short documentary explains about how Cholera outbreak happened in Haiti in 2010 after a devastating earthquake which destroyed most of the infrastructure of Haiti and made people to live in tents just like in a refugee camp.  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Xx4sQ0oeU9Q
+" target="_blank"><img src="http://img.youtube.com/vi/Xx4sQ0oeU9Q/0.jpg" 
+alt="Investigating a Mysterious Cholera Outbreak in Haiti: Correspondent Confidential" width="1024" height="720" border="5" /></a>
 
 ## 3. How To Execute  
 * To view the jupyter notebook click on the badge [![Jupyter-Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://nbviewer.jupyter.org/github/strikersps/Cholera-Disease-Analysis/blob/HEAD/Cholera-Disease-Analysis.ipynb#) but if you want to execute the jupyter notebook or R-code in the R-IDE then follow the steps given below.
