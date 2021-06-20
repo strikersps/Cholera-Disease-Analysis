@@ -11,7 +11,7 @@
 * The repository shows the data analysis of Cholera disease which is killing people for last two centuries and shows the evidence that if the countries doesn't have access to clean drinking water or sanitation or doesn't have basic healthcare infrastructure then Cholera can kill thousands of people if not millions.  
 
 ![Top-12 Countries With Most Cholera Cases Reported](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Cases-Top-12-Countries.png)  
-* The above graphs shows the Top-12 Countries with the most reported Cholera Cases (1949-2016) and it is evident that India and Bangladesh which had half a million cases reported in the late 1940s have now relatively very less number of cases/deaths reported due to the vaccination and sanitation avaialbility but in most of the African countries Cholera is still a major threat to the people due to very weak and fragile healthcare infrastructure present in these countries (Refer the below figure).  
+* The above graphs shows the Top-12 Countries with the most reported Cholera Cases (1949-2016) and it is evident that India and Bangladesh which had half a million cases reported in the late 1940s have now relatively very less number of cases/deaths reported due to the vaccination and sanitation availability but still in Sub-Saharan Africa, Latin America and Carribbean countries Cholera is a major threat to the people due to very weak and fragile healthcare infrastructure present in these countries (Refer the below figure).  
 
 ![WHO-Subregion With Most Number of Cholera Cases Reported (2007-2016)](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Cases-and-Deaths-Last-10-Years.png)  
 
