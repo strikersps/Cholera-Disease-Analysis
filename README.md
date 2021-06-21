@@ -43,7 +43,7 @@ alt="Investigating a Mysterious Cholera Outbreak in Haiti: Correspondent Confide
       **NOTE:** The binder will take atleast 10-15 minutes to create an executable environment by installing all the dependencies for R and this project.  
       
   **3.2 Execution On Local System**  
-  * You can also execute the R-code in your local system in the R-IDE by cloning this repository onto your local system and then open the R-IDE, set the working directory to the directory at which cloned repostiroty is stored and execute the [`Cholera-Disease-Analysis.r`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r) file.  
+  * You can also execute the R-code in your local system in the R-IDE by cloning this repository onto your local system and then open the R-IDE, set the working directory to the directory at which cloned repository is stored and execute the [`Cholera-Disease-Analysis.r`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r) file.  
       **NOTE:** Do maximise all the plots which are created through execution of the R-code in R-IDE.  
   * You can also execute the the jupyter notebook i.e. [`Cholera-Disease-Analysis.ipynb`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb) on your local system if you have have a jupyter notebook and [R-kernel](https://github.com/IRkernel/IRkernoo) for jupyter notebook installed in your system.
 
