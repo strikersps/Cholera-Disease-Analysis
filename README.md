@@ -45,7 +45,7 @@ alt="Investigating a Mysterious Cholera Outbreak in Haiti: Correspondent Confide
   **3.2 Execution On Local System**  
   * You can also execute the R-code in your local system in the R-IDE by cloning this repository onto your local system and then open the R-IDE, set the working directory to the directory at which cloned repository is stored and execute the [`Cholera-Disease-Analysis.r`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r) file.  
       **NOTE:** Do maximise all the plots which are created through execution of the R-code in R-IDE.  
-  * You can also execute the the jupyter notebook i.e. [`Cholera-Disease-Analysis.ipynb`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb) on your local system if you have have a jupyter notebook and [R-kernel](https://github.com/IRkernel/IRkernoo) for jupyter notebook installed in your system.
+  * You can also execute the the jupyter notebook i.e. [`Cholera-Disease-Analysis.ipynb`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb) on your local system if you have have a jupyter notebook and [R-kernel for jupyter notebook](https://github.com/IRkernel/IRkernoo) installed in your system.
 
 ## 4. About Dataset  
 * The dataset consists of information about the total number of cases, deaths and fatality rate (CFR) for the cholera disease from 1949-2016.  
