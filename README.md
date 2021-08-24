@@ -10,17 +10,12 @@
 
 ## 1. Objective  
 - The objective of this project is to create awareness and to understand the spread of Cholera disease globally using R programming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.  
-- **Please watch the following video's to understand more about Cholera and also the story of John Snow who used data analysis in order to find out the source of disease in the Cholera outbreak of 1854 which killed 600 people in just a few weeks in London.**  
+- **Please watch the following video's to understand more about Cholera and also the story of John Snow who used data analysis in order to find out the source of Cholera outbreak of 1854 which killed 600 people in just a few weeks in London.**  
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=lNjrAXGRda4
-" target="_blank"><img src="http://img.youtube.com/vi/lNjrAXGRda4/0.jpg" 
-alt="John Snow and the 1854 Broad Street cholera outbreak" width="1024" height="720" border="5" /></a>
-
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hj95IZMlZWw
-" target="_blank"><img src="http://img.youtube.com/vi/hj95IZMlZWw/0.jpg" 
-alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="5" /></a>
-
+| Sr. No | Title | Link To Video|
+|--------|-------|--------------|
+|1| John Snow & The 1854 Broad Street Cholera Outbreak | [https://www.youtube.com/watch?feature=player_embedded&v=lNjrAXGRda4](http://www.youtube.com/watch?feature=player_embedded&v=lNjrAXGRda4) |
+|2| The Pandemic The World Has Forgotten | [https://www.youtube.com/watch?feature=player_embedded&v=hj95IZMlZWw](http://www.youtube.com/watch?feature=player_embedded&v=hj95IZMlZWw)|
 
 ## 2. Introduction  
 - The repository shows the data analysis of Cholera disease which is killing people for last two centuries and shows the evidence that if the countries doesn't have access to clean drinking water or sanitation or doesn't have basic healthcare infrastructure then Cholera can kill thousands of people if not millions.  
@@ -30,7 +25,7 @@ alt="The Pandemic The World Has Forgotten" width="1024" height="720" border="5" 
 
 ![WHO-Subregion With Most Number of Cholera Cases Reported (2007-2016)](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Cases-and-Deaths-Last-10-Years.png)  
 
-- The following short documentary explains, **How Cholera Outbreak Happened In Haiti In 2010** after a [devastating earthquake](https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti) which destroyed most of the infrastructure of Haiti and made millions of people to live in tents like a refugee camp. 
+- The following short documentary explains, **How Cholera Outbreak Happened In Haiti In 2010** after a [devastating earthquake](https://www.history.com/this-day-in-history/massive-earthquake-strikes-haiti) which destroyed most of the infrastructure of Haiti and made millions of people to live in tents like a refugee camp shows that how weak and fragile the infrastructure of Haiti was and how that with several other consequences of weak infrastructure and governance led to Cholera Outbreak In Haiti in 2010.  
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Xx4sQ0oeU9Q
 " target="_blank"><img src="http://img.youtube.com/vi/Xx4sQ0oeU9Q/0.jpg" 
@@ -44,9 +39,9 @@ alt="Investigating a Mysterious Cholera Outbreak in Haiti: Correspondent Confide
       **NOTE:** The binder will take atleast 10-15 minutes to create an executable environment by installing all the dependencies for R and this project.    
       
   **3.2 Execution On Local System**  
-    - You can also execute the R-code in your local system in the R-IDE by cloning this repository onto your local system and then open the R-IDE, set the working directory to the directory at which cloned repository is stored and execute the [`Cholera-Disease-Analysis.r`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r) file.  
-      **NOTE:** Do maximise all the plots which are created through execution of the R-code in R-IDE.  
-    - You can also execute the the jupyter notebook i.e. [`Cholera-Disease-Analysis.ipynb`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb) on your local system if you have have a jupyter notebook and [R-kernel for jupyter notebook](https://github.com/IRkernel/IRkernoo) installed in your system.
+    - You can also execute the R-code on your local system in the R-IDE by cloning this repository onto your local system and then open the R-IDE, set the working directory to the directory at which cloned repository is stored and execute the [`Cholera-Disease-Analysis.r`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.r) file.  
+      **NOTE:** Do maximise all the plots which are created through execution of the R-code in R-IDE for better view.  
+    - You can also execute the the jupyter notebook i.e. [`Cholera-Disease-Analysis.ipynb`](https://github.com/strikersps/Cholera-Disease-Analysis/blob/main/Cholera-Disease-Analysis.ipynb) on your local system if you have have a jupyter notebook and [R-kernel for jupyter notebook](https://github.com/IRkernel/IRkernoo) installed.
 
 ## 4. About Dataset  
 - The dataset consists of information about the total number of cases, deaths and fatality rate (CFR) for the cholera disease from 1949-2016.  
