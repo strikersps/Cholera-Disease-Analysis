@@ -51,5 +51,5 @@ alt="Investigating a Mysterious Cholera Outbreak in Haiti: Correspondent Confide
 |:-----:|:-------------:|:--------:|
 | 1 | Cholera Disease Annual Cases, Deaths and Fatality Rate Dataset (1949-2016) | [WHO GHO Data Repository: Cholera Disease Dataset Download Link](https://apps.who.int/gho/data/node.main.174?lang=en) |  
 
-## 5. License  
+###### License  
 [![GPL-V3-License](https://img.shields.io/github/license/strikersps/Cholera-Disease-Analysis?color=red&style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.en.html)
