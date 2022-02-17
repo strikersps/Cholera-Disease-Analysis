@@ -4,9 +4,7 @@
 ![Repo-Size-Badge](https://img.shields.io/github/repo-size/strikersps/Cholera-Disease-Analysis?color=%23FF0000&style=for-the-badge)
 [![Binder-Shield](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/strikersps/Cholera-Disease-Analysis/HEAD)  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![GitHub-Issues](https://img.shields.io/github/issues/strikersps/Cholera-Disease-Analysis?style=flat-square)](https://github.com/strikersps/Cholera-Disease-Analysis/issues)
-[![GitHub-Stars](https://img.shields.io/github/stars/strikersps/Cholera-Disease-Analysis?style=flat-square )](https://github.com/strikersps/Cholera-Disease-Analysis/stargazers)
-[![GitHub-Forks](https://img.shields.io/github/forks/strikersps/Cholera-Disease-Analysis?style=flat-square)](https://github.com/strikersps/Cholera-Disease-Analysis/network/members)  
+![Cholera-Disease-Analysis](https://socialify.git.ci/strikersps/Cholera-Disease-Analysis/image?description=1&forks=1&issues=1&logo=https%3A%2F%2Fwww.r-project.org%2Flogo%2FRlogo.png&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ## 1. Objective  
 - The objective of this project is to create awareness and to understand the spread of Cholera disease globally using R programming language and also what measures we can take to eradicate the disease which is killing people since 1850's by developing the required healthcare infrastructure and accessibility to clean drinking water and vaccines.  
